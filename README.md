@@ -44,3 +44,7 @@ docker compose --profile test run --rm tests npm run test:integration
 - Segredos em `.env` (fora do Git); `.env.example` versionado.
 - Helmet (headers HTTP), limite de body (10kb), validação de entrada, queries parametrizadas (anti SQL injection).
 - Preço calculado no servidor; erros internos não são expostos ao cliente.
+
+## Vídeo
+
+https://drive.google.com/file/d/1d0ySHNRfmunkXe6Qgp0-w-hjOmtLOBau/view?usp=sharing
