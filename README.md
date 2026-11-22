@@ -1,4 +1,4 @@
-ç# EstuLanches
+# EstuLanches
 
 API de gestão de cardápio e pedidos da cantina escolar.
 Stack: Node.js 20 + Express + PostgreSQL 16, empacotado com Docker.
